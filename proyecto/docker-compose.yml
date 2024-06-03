@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:latest
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_TICK_TIME: 2000
+
+  kafka:
+    image: confluentinc/cp-kafka:latest
+    depends_on:
+      - zookeeper
+    ports:
+      - "9092:9092"
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:9092
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+
+  solicitud-service:
+    build: ./solicitud-service
+    ports:
+      - "5000:5000"
+    depends_on:
+      - kafka
+    volumes:
+      - ./datasets:/datasets
+    entrypoint: ["./wait-for-it.sh", "kafka:9092", "--", "python", "app.py"]
+
+  procesamiento-service:
+    build: ./procesamiento-service
+    depends_on:
+      - kafka
+    entrypoint: ["./wait-for-it.sh", "kafka:9092", "--", "python", "app.py"]
+
+  notificacion-service:
+    build: ./notificacion-service
+    ports:
+      - "5001:5001"
+    depends_on:
+      - kafka
+    entrypoint: ["./wait-for-it.sh", "kafka:9092", "--", "python", "app.py"]
+
+
+    

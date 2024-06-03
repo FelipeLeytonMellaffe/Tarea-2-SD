@@ -1,0 +1,502 @@
+[
+    {
+        "nombre": "Leche",
+        "precio": 38.42,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pan",
+        "precio": 38.49,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Huevos",
+        "precio": 1.33,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Arroz",
+        "precio": 41.82,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Fideos",
+        "precio": 32.66,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Aceite de Oliva",
+        "precio": 34.29,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Sal",
+        "precio": 2.25,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Azucar",
+        "precio": 36.53,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Cafe",
+        "precio": 24.59,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Te",
+        "precio": 41.67,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Harina",
+        "precio": 43.07,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Mantequilla",
+        "precio": 10.33,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Queso",
+        "precio": 2.12,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Yogur",
+        "precio": 29.71,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Jugo de Naranja",
+        "precio": 20.07,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Cereal",
+        "precio": 34.87,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Frutas Variadas",
+        "precio": 37.2,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Verduras Variadas",
+        "precio": 1.99,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Carne de Res",
+        "precio": 40.0,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pollo",
+        "precio": 41.86,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pescado",
+        "precio": 18.49,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Cerdo",
+        "precio": 5.95,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Tocino",
+        "precio": 40.33,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Jam\u00f3n",
+        "precio": 16.91,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Salchichas",
+        "precio": 44.08,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Papas",
+        "precio": 25.88,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Cebollas",
+        "precio": 47.77,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Ajo",
+        "precio": 25.89,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Tomates",
+        "precio": 35.06,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pimientos",
+        "precio": 35.1,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Zanahorias",
+        "precio": 23.62,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Apio",
+        "precio": 43.61,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Lechuga",
+        "precio": 11.03,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Espinacas",
+        "precio": 23.98,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pepinos",
+        "precio": 15.68,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Calabacin",
+        "precio": 17.85,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Berenjenas",
+        "precio": 11.79,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Aguacates",
+        "precio": 11.15,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Limones",
+        "precio": 22.26,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Naranjas",
+        "precio": 12.17,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Manzanas",
+        "precio": 16.6,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Platanos",
+        "precio": 43.57,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Uvas",
+        "precio": 13.52,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Fresas",
+        "precio": 30.3,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Arandanos",
+        "precio": 39.94,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Melon",
+        "precio": 1.8,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Sandia",
+        "precio": 37.33,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pi\u00f1a",
+        "precio": 27.86,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Ciruelas",
+        "precio": 34.15,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Albaricoques",
+        "precio": 7.98,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Higos",
+        "precio": 47.25,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Melocotones",
+        "precio": 14.06,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Cerezas",
+        "precio": 12.47,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Kiwi",
+        "precio": 19.56,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Mango",
+        "precio": 37.27,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Papaya",
+        "precio": 49.56,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Coco",
+        "precio": 18.05,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Perejil",
+        "precio": 47.45,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Cilantro",
+        "precio": 29.75,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Albahaca",
+        "precio": 41.78,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Menta",
+        "precio": 17.18,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Romero",
+        "precio": 49.63,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Tomillo",
+        "precio": 35.66,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Oregano",
+        "precio": 43.2,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Nuez Moscada",
+        "precio": 14.94,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Canela",
+        "precio": 38.24,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pimienta Negra",
+        "precio": 42.74,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pimenton",
+        "precio": 40.14,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Comino",
+        "precio": 16.4,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Vinagre",
+        "precio": 5.26,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Salsa de Soja",
+        "precio": 44.44,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Mostaza",
+        "precio": 5.78,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Mayonesa",
+        "precio": 34.43,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Ketchup",
+        "precio": 46.14,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Salsa de Tomate",
+        "precio": 16.13,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Salsa BBQ",
+        "precio": 9.83,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Salsa Worcestershire",
+        "precio": 38.82,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Miel",
+        "precio": 29.98,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Mermelada",
+        "precio": 8.54,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Nutella",
+        "precio": 22.8,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pasta de Tomate",
+        "precio": 22.84,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Sopa Instantanea",
+        "precio": 7.99,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Galletas",
+        "precio": 42.22,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Chips",
+        "precio": 41.36,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Nueces",
+        "precio": 6.46,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Almendras",
+        "precio": 13.69,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Pistachos",
+        "precio": 32.97,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Chocolate",
+        "precio": 7.53,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Caramelos",
+        "precio": 38.55,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Helado",
+        "precio": 7.77,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Panecillos",
+        "precio": 34.14,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Croissants",
+        "precio": 36.08,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Tortillas",
+        "precio": 26.78,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Tostadas",
+        "precio": 35.22,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Panceta",
+        "precio": 32.46,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Quesillo",
+        "precio": 39.29,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Panqueques",
+        "precio": 30.13,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Paprika",
+        "precio": 35.67,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Margarina",
+        "precio": 39.64,
+        "correo": "tarea2sd@gmail.com"
+    },
+    {
+        "nombre": "Gelatina",
+        "precio": 48.19,
+        "correo": "tarea2sd@gmail.com"
+    }
+]

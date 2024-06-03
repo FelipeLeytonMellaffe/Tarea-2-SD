@@ -1,0 +1,502 @@
+[
+    {
+        "nombre": "BMW Altima",
+        "precio": 52228,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Camry",
+        "precio": 42837,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Explorer",
+        "precio": 35426,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Altima",
+        "precio": 66634,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Civic",
+        "precio": 53849,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Camry",
+        "precio": 66321,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Accord",
+        "precio": 59912,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Accord",
+        "precio": 31985,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Accord",
+        "precio": 15734,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Explorer",
+        "precio": 33778,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Sentra",
+        "precio": 49546,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Corolla",
+        "precio": 69290,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Civic",
+        "precio": 55535,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Altima",
+        "precio": 21859,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "BMW Camry",
+        "precio": 42360,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Altima",
+        "precio": 41904,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Sentra",
+        "precio": 43775,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Model X",
+        "precio": 41241,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "BMW Explorer",
+        "precio": 34007,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Civic",
+        "precio": 56531,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Accord",
+        "precio": 16776,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Camry",
+        "precio": 32092,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Mustang",
+        "precio": 65963,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Sentra",
+        "precio": 27719,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Mustang",
+        "precio": 38287,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Mustang",
+        "precio": 64158,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Corolla",
+        "precio": 53077,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Sentra",
+        "precio": 30693,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Model S",
+        "precio": 51444,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "BMW Model S",
+        "precio": 56371,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Mustang",
+        "precio": 53227,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Corolla",
+        "precio": 17625,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Model S",
+        "precio": 60705,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Camry",
+        "precio": 41468,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Model S",
+        "precio": 67127,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Model S",
+        "precio": 32652,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Camry",
+        "precio": 43861,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Model X",
+        "precio": 18071,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Sentra",
+        "precio": 30975,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Model X",
+        "precio": 61384,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Altima",
+        "precio": 61594,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Explorer",
+        "precio": 70401,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Corolla",
+        "precio": 20346,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Model S",
+        "precio": 63561,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Camry",
+        "precio": 22983,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Civic",
+        "precio": 15404,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Corolla",
+        "precio": 18669,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Accord",
+        "precio": 22522,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "BMW Model X",
+        "precio": 54061,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Model S",
+        "precio": 43650,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "BMW Corolla",
+        "precio": 17085,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Explorer",
+        "precio": 71160,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Altima",
+        "precio": 21620,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Mustang",
+        "precio": 45715,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Model X",
+        "precio": 45019,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "BMW Accord",
+        "precio": 21404,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Civic",
+        "precio": 38438,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Altima",
+        "precio": 55587,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Sentra",
+        "precio": 49125,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Civic",
+        "precio": 17334,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Mustang",
+        "precio": 65897,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Model S",
+        "precio": 25346,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Corolla",
+        "precio": 66987,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Corolla",
+        "precio": 21231,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Mustang",
+        "precio": 49176,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "BMW Mustang",
+        "precio": 45319,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "BMW Sentra",
+        "precio": 30211,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Altima",
+        "precio": 25195,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Corolla",
+        "precio": 61394,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Accord",
+        "precio": 47227,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Explorer",
+        "precio": 63405,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Explorer",
+        "precio": 55808,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Model X",
+        "precio": 57898,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Camry",
+        "precio": 17728,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Civic",
+        "precio": 22735,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Corolla",
+        "precio": 20851,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Civic",
+        "precio": 54270,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Explorer",
+        "precio": 30008,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Explorer",
+        "precio": 22928,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Chevrolet Model X",
+        "precio": 60847,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Sentra",
+        "precio": 19090,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "BMW Civic",
+        "precio": 43867,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Sentra",
+        "precio": 28049,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Altima",
+        "precio": 25216,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Volkswagen Model X",
+        "precio": 64731,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Hyundai Model X",
+        "precio": 67540,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Model S",
+        "precio": 43366,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Mustang",
+        "precio": 65390,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Altima",
+        "precio": 53376,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Model S",
+        "precio": 17159,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Honda Mustang",
+        "precio": 18579,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Civic",
+        "precio": 51411,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Sentra",
+        "precio": 26006,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Ford Explorer",
+        "precio": 48405,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Mercedes Model X",
+        "precio": 64320,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Accord",
+        "precio": 21562,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Kia Camry",
+        "precio": 26508,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Nissan Accord",
+        "precio": 69107,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Camry",
+        "precio": 54724,
+        "correo": "tareasd2@gmail.com"
+    },
+    {
+        "nombre": "Toyota Accord",
+        "precio": 51405,
+        "correo": "tareasd2@gmail.com"
+    }
+]
